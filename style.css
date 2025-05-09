@@ -27,10 +27,14 @@ li{
 
 li a{
     display: block;
-    color:   rgb(167, 196, 135);
+    color:   rgb(64, 137, 221);
     text-emphasis: none;
     padding: 14px 16px;
     font-family: "Molle", cursive;
     font-weight: 400;
     font-style: italic;
+}
+
+li a:hover{
+    color: black;
 }
